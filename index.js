@@ -12,9 +12,6 @@ function Registrar(){
     var email = document.getElementById("email").value.trim()
     var pass = document.getElementById("pass").value.trim()
 
-    console.log(nombre)
-    console.log(email)
-    console.log(pass)
 
     if(nombre == ""){
          Notiflix.Notify.info('El campo Nombre es Obligatorio');
