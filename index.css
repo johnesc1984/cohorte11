@@ -1,0 +1,9 @@
+div#registro {
+    background: #2196F3;
+    width: 375px;
+    padding: 37px;
+    border-radius: 19px;
+    color: white;
+    margin-left: calc(50% - 180px);
+    margin-top: 39px;
+}

@@ -1,0 +1,13 @@
+:root{
+    --fondo:blue
+}
+
+
+
+footer {
+    background: red;
+    color: white;
+    height: 100px;
+    text-align: center;
+    padding-top: 11px;
+}
