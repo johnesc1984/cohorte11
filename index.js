@@ -21,7 +21,7 @@ function Registrar(){
          return false
     }
 
-    if(email == ""){
+    if(email.trim() == ""){
          Notiflix.Notify.info('El campo Email es Obligatorio');
          return false
     }
